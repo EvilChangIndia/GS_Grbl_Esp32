@@ -47,7 +47,7 @@
 #define SPINDLE_OUTPUT_PIN      GPIO_NUM_13  // labeled SpinPWM //we use for Glue
 
 //#define COOLANT_MIST_PIN        GPIO_NUM_21  // labeled Mist
-#define COOLANT_FLOOD_PIN       GPIO_NUM_25  // labeled Flood //use for clamp?
+#define COOLANT_FLOOD_PIN       GPIO_NUM_4  // labeled Flood //use for clamp?
 
 //#define PROBE_PIN               GPIO_NUM_32  // labeled Probe
 
